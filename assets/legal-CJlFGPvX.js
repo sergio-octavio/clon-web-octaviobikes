@@ -1,0 +1,1 @@
+import{t as e}from"./legal-page-B3psKhEA.js";var t=e;export{t as component};

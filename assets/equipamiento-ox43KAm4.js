@@ -1,0 +1,1 @@
+import{n as e}from"./index-Bwe8sMMU.js";import{t}from"./workshop-page-Ait8SM9X.js";var n=e(),r=()=>(0,n.jsx)(t,{view:`equipment`});export{r as component};

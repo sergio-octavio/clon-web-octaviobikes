@@ -1,0 +1,1 @@
+import{t as e}from"./workshop-page-Ait8SM9X.js";var t=e;export{t as component};

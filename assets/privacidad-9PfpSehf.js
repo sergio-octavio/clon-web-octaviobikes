@@ -1,0 +1,1 @@
+import{n as e}from"./index-Bwe8sMMU.js";import{t}from"./legal-page-B3psKhEA.js";var n=e(),r=()=>(0,n.jsx)(t,{privacy:!0});export{r as component};
